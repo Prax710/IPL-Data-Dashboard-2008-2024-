@@ -13,7 +13,7 @@ This interactive Excel dashboard provides an in-depth analysis of IPL matches fr
 ✅ Toss Decision Analysis – Bat vs Field trends over the years 🎲
 ✅ City-wise Stadium Toss Decisions – Toss outcomes for different venues 🏟️
 ✅ Match Results Breakdown – Wins by runs and wickets 📊
-✅ Team-wise Match Wins – Compare team performances over multiple seasons
+✅ Team-wise Match Wins – Compare team performances over multiple seasons.
 ✅ Interactive Filters – Select teams, years, cities, and match types for detailed insights
 
 📌 Tech Stack
